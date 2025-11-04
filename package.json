@@ -1,0 +1,8 @@
+{
+  "name": "merge-time-ranges",
+  "version": "1.0.0",
+  "description": "NodeJS module for merging discontinuous time ranges within a threshold.",
+  "main": "mergeTimeRanges.js",
+  "author": "Yogendra Dayal",
+  "license": "ISC"
+}
